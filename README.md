@@ -21,7 +21,7 @@ node normal.js
 
 #Test file
 
-Click on of the following links 
+Click on one of the following links 
 * [Audio file](http://localhost:3000/audio.m4a)
 	- Notice that with normal serve, the file will start playing in the browser. 
 	- When using Content-Disposition:attachment the file is forced to download no matter what. 
