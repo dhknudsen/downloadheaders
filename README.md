@@ -23,6 +23,6 @@ node normal.js
 
 Click on of the following links 
 * [Audio file](http://localhost:3000/audio.m4a)
-	- Notice than with normal serve, the file will start playing in the browser. 
+	- Notice that with normal serve, the file will start playing in the browser. 
 	- When using Content-Disposition:attachment the file is forced to download no matter what. 
 * [PPT file](http://localhost:3000/powepoint.pptx)
